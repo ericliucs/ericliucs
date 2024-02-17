@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric! 
 - 👀 I’m a student at Duquesne University majoring in Computer Science.
-- 🌱 I’m currently learning web development - React, to be precise.
+- 🌱 I’m currently learning web development. Right now, I'm focusing on React.
 - 📫 You can reach me at my email, liue@duq.edu.
 
 <!---
